@@ -1,0 +1,15 @@
+certifi==2018.11.29
+chardet==3.0.4
+eyeD3==0.8.9
+ffmpeg==1.4
+idna==2.8
+libmagic==1.0
+libpytunes==1.5.2
+mutagen==1.42.0
+Pillow==5.4.1
+pydub==0.23.1
+python-magic==0.4.15
+python-resize-image==1.1.18
+requests==2.21.0
+six==1.11.0
+urllib3==1.24.1
