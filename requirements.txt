@@ -12,4 +12,4 @@ python-magic==0.4.15
 python-resize-image==1.1.18
 requests==2.21.0
 six==1.11.0
-urllib3==1.24.1
+urllib3==1.24.2
