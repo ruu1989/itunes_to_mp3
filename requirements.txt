@@ -6,7 +6,7 @@ idna==2.8
 libmagic==1.0
 libpytunes==1.5.2
 mutagen==1.42.0
-Pillow==5.4.1
+Pillow==8.1.1
 pydub==0.23.1
 python-magic==0.4.15
 python-resize-image==1.1.18
